@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>554AD06F-AEB9-48FC-A8B3-1EF21051E556</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DigitalSkateboardBeta</string>
+	<key>IDESourceControlProjectPath</key>
+	<string>DigitalSkateboardBeta.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>872E166DC83B8ED04EECAB5B420F7508FF580ED3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>872E166DC83B8ED04EECAB5B420F7508FF580ED3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ece499</string>
+		</dict>
+	</array>
+</dict>
+</plist>
